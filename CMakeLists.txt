@@ -1,3 +1,6 @@
+청주대 최고!!
+
+
 # CMakeLists for libfacedetectcnn
 
 project(libfacedetection)
